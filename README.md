@@ -1,16 +1,108 @@
-## Hi there 👋
+# Hi 👋, I'm Rahul Kumar
 
-<!--
-**rahulstacklab/rahulstacklab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### PHP & Laravel Developer | WordPress Developer
 
-Here are some ideas to get you started:
+I'm a web developer with 1+ year of professional experience, currently working with PHP-based web technologies and CMS platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently focusing on building my skills in **Laravel, PHP, MySQL and modern web application development**.
+
+---
+
+## 🚀 About Me
+
+* 💻 1+ year of professional web development experience
+* 🔨 Currently learning and building applications with Laravel
+* 🌐 Experience with WordPress, Shopify, Wix and Framer
+* 🗄️ Working with PHP, MySQL and database-driven applications
+* 📚 Continuously learning backend development and Laravel
+* 🎯 Goal: Build clean, scalable and maintainable web applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+* PHP
+* Laravel
+* MySQL
+
+### CMS & Platforms
+
+* WordPress
+* Shopify
+* Wix
+* Framer
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* XAMPP
+
+---
+
+## 📌 Featured Projects
+
+### 🏢 Employee Management System
+
+A Laravel-based Employee Management and Leave Management System.
+
+**Tech:** Laravel, PHP, MySQL, Blade
+
+👉 Check out the repository for the complete project.
+
+---
+
+### 💼 Personal Portfolio
+
+A responsive personal portfolio website showcasing my skills, experience and projects.
+
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Laravel
+   ↓
+Routing
+   ↓
+Controllers
+   ↓
+Blade
+   ↓
+Eloquent ORM
+   ↓
+Migrations & Relationships
+   ↓
+Validation
+   ↓
+Authentication
+   ↓
+REST APIs
+   ↓
+Real-world Laravel Applications
+```
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: [Rahul Kumar](https://www.linkedin.com/in/rahul-kumar-90a375308/)
+* 📧 Email: [rahulkumar143221@gmail.com](mailto:rahulkumar143221@gmail.com)
+* 💻 GitHub: [rahulstacklab](https://github.com/rahulstacklab)
+* 🌐 Portfolio: Coming Soon
+
+---
+
+### "Learning by building, improving by doing." 🚀
